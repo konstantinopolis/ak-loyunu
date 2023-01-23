@@ -1,0 +1,29 @@
+C:\Users\NURULLAH\source\repos\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe.config
+C:\Users\NURULLAH\source\repos\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe
+C:\Users\NURULLAH\source\repos\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.pdb
+C:\Users\NURULLAH\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csprojResolveAssemblyReference.cache
+C:\Users\NURULLAH\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Form1.resources
+C:\Users\NURULLAH\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Properties.Resources.resources
+C:\Users\NURULLAH\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.GenerateResource.Cache
+C:\Users\NURULLAH\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.CoreCompileInputs.cache
+C:\Users\NURULLAH\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.exe
+C:\Users\NURULLAH\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.pdb
+F:\ \Nurullah eslestirme\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe.config
+F:\ \Nurullah eslestirme\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe
+F:\ \Nurullah eslestirme\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.pdb
+F:\ \Nurullah eslestirme\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csprojResolveAssemblyReference.cache
+F:\ \Nurullah eslestirme\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Form1.resources
+F:\ \Nurullah eslestirme\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Properties.Resources.resources
+F:\ \Nurullah eslestirme\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.GenerateResource.Cache
+F:\ \Nurullah eslestirme\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.CoreCompileInputs.cache
+F:\ \Nurullah eslestirme\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.exe
+F:\ \Nurullah eslestirme\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.pdb
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_4\170707063\dosya\170707063\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe.config
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_4\170707063\dosya\170707063\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_4\170707063\dosya\170707063\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.pdb
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_4\170707063\dosya\170707063\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_4\170707063\dosya\170707063\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Form1.resources
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_4\170707063\dosya\170707063\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Properties.Resources.resources
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_4\170707063\dosya\170707063\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_4\170707063\dosya\170707063\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.exe
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_4\170707063\dosya\170707063\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.pdb
